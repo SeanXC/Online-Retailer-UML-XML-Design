@@ -1,2 +1,2 @@
 # Online-Retailer-UML-XML-Design
-this is an Online Retailer UML/XML Design with reports
+group project: Online Retailer UML/XML Design
